@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanaworks.MapRecource", "Hanaworks.MapRecource\Hanaworks.MapRecource.csproj", "{91682289-1D6A-4625-A9E6-673CE5C0261F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91682289-1D6A-4625-A9E6-673CE5C0261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91682289-1D6A-4625-A9E6-673CE5C0261F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91682289-1D6A-4625-A9E6-673CE5C0261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91682289-1D6A-4625-A9E6-673CE5C0261F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE248CF0-D56B-4D46-84FA-0AE2790465CC}
+	EndGlobalSection
+EndGlobal
